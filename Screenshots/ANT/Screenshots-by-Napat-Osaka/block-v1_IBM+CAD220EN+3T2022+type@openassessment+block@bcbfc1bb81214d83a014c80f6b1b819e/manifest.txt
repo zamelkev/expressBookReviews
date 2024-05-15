@@ -1,0 +1,43 @@
+Filename: 0-8-reviewadded.png
+Description: Question8 : Apart from the addition of one review by a user, I also add some additional pictures to show that the system handle modifications by the same user and addition of another review by another user correctly.
+Size: 1022956
+
+Filename: 1-1-getallbooks.png
+Description: Task1
+Size: 247957
+
+Filename: 2-2-gedetailsISBN.png
+Description: Task2
+Size: 169242
+
+Filename: 3-3-getbooksbyauthor.png
+Description: Task3
+Size: 174640
+
+Filename: 4-4-getbooksbytitle.png
+Description: Task4
+Size: 179061
+
+Filename: 5-5-getbookreview.png
+Description: Task5
+Size: 153968
+
+Filename: 6-6-register.png
+Description: Task6 : Successful register, as well as some additional pictures to show that the server handle error correctly
+Size: 1070541
+
+Filename: 7-7-login.png
+Description: Task7 : Successful login, as well as some additional pictures to show that the server handle error correctly
+Size: 1079424
+
+Filename: 8-8-reviewadded.png
+Description: Task8 : Addition of review and modification of it by one user. As well as addition of review by another user without interfering with review of the original user.
+Size: 1022956
+
+Filename: 9-9-deletereview.png
+Description: Task9 : Delete confirmation responses and some additional pictures to show that the review is indeed deleted from the database
+Size: 657423
+
+Filename: 10-8-reviewadded.jpg
+Description: Task8 : Addition of review and modification of it by one user. As well as addition of review by another user without interfering with review of the original user.
+Size: 785099
